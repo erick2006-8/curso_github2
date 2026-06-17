@@ -30,5 +30,5 @@ Colaboré con un compañero en el desarrollo de las funcionalidades de **Login**
 ## Resultado
 
 Se logró implementar correctamente el sistema de autenticación, permitiendo el registro de nuevos usuarios y el acceso mediante credenciales válidas, mejorando la seguridad y funcionalidad de la aplicación.
-![alt text](image.png)
+![alt text](image-2.png)
 ![alt text](image-1.png)
