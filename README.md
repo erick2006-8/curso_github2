@@ -1,17 +1,32 @@
-# Aporte al Issue
+# Issue: Implementación de Login y Registro de Usuarios
 
-## Descripción
+## Descripción del Issue
 
-Durante el desarrollo de este issue, colaboré con un compañero en la implementación de las funcionalidades de autenticación del sistema.
+Este issue tiene como objetivo desarrollar e implementar las funcionalidades de autenticación del sistema, permitiendo que los usuarios puedan registrarse e iniciar sesión de manera segura.
 
-## Actividades realizadas
+La autenticación es un componente fundamental en cualquier aplicación, ya que permite identificar a los usuarios y controlar el acceso a las diferentes funcionalidades del sistema.
 
-- Apoyo en el desarrollo del formulario de **inicio de sesión (Login)**.
-- Apoyo en el desarrollo del formulario de **registro de usuarios (Register)**.
-- Validación de los datos ingresados por los usuarios.
-- Revisión y corrección de errores detectados durante las pruebas.
-- Verificación del correcto funcionamiento de los procesos de autenticación.
+## Cómo se realiza
+
+Para completar este issue se llevaron a cabo las siguientes actividades:
+
+1. Creación del formulario de registro de usuarios.
+2. Implementación de validaciones para los datos ingresados.
+3. Creación del formulario de inicio de sesión.
+4. Verificación de credenciales de acceso.
+5. Manejo de errores y mensajes de validación.
+6. Realización de pruebas para garantizar el correcto funcionamiento del proceso de autenticación.
+
+## Mi aporte
+
+Colaboré con un compañero en el desarrollo de las funcionalidades de **Login** y **Register**, apoyando en:
+
+- Implementación de los formularios de autenticación.
+- Validación de datos ingresados por los usuarios.
+- Revisión y corrección de errores.
+- Pruebas de funcionamiento del inicio de sesión y registro.
+- Verificación de que los usuarios puedan crear cuentas e iniciar sesión correctamente.
 
 ## Resultado
 
-Se implementaron satisfactoriamente las funcionalidades de inicio de sesión y registro de usuarios, permitiendo el acceso seguro y la creación de nuevas cuentas dentro del sistema.
+Se logró implementar correctamente el sistema de autenticación, permitiendo el registro de nuevos usuarios y el acceso mediante credenciales válidas, mejorando la seguridad y funcionalidad de la aplicación.
