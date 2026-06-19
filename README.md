@@ -44,4 +44,9 @@ Además, participé en la resolución de problemas dentro de un repositorio comp
 También reforcé mis conocimientos sobre control de versiones mediante el uso de **commits**, **branches** y **pull requests**, comprendiendo cómo estas herramientas permiten mantener un flujo de trabajo ordenado, facilitar la integración de nuevas funcionalidades y preservar la estabilidad del proyecto.
 
 En general, esta experiencia me permitió adquirir conocimientos prácticos sobre metodologías de desarrollo colaborativo, mejorar mis capacidades para planificar y gestionar tareas, y fortalecer mis competencias técnicas en el desarrollo de aplicaciones web y el trabajo en entornos reales de software.
-.![alt text]![alt text](image-4.png)
+
+# Evidencia
+
+
+![alt text](image-5.png)
+![alt text](image-6.png)
