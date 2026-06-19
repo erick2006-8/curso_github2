@@ -35,10 +35,10 @@ Se logró implementar correctamente el sistema de autenticación, permitiendo el
 
 ## Fin de curso
 
-Durante el desarrollo de este proyecto adquirí conocimientos sobre el uso de herramientas colaborativas de GitHub, especialmente **Issues** para la gestión y seguimiento de tareas, así como **Projects** para la organización y planificación del trabajo dentro del equipo.
+Durante el desarrollo de este cursoo adquirí conocimientos sobre el uso de herramientas colaborativas de GitHub, especialmente **Issues** para la gestión y seguimiento de tareas, así como **Projects** para la organización y planificación del trabajo dentro del equipo.
 
 Además, participé en la resolución de problemas en un repositorio compartido, colaborando con otros integrantes mediante la revisión de código, corrección de errores y seguimiento de actividades asignadas. Esto permitió fortalecer habilidades de comunicación y trabajo en equipo, aspectos fundamentales en el desarrollo de software.
 
 También aprendí a utilizar conceptos de control de versiones como **commits**, **branches** y **pull requests**, los cuales facilitan la integración de cambios y el desarrollo de nuevas funcionalidades sin afectar la estabilidad del proyecto.
 
-Esta experiencia contribuyó al fortalecimiento de mis competencias técnicas y profesionales, permitiéndome comprender mejor los flujos de trabajo colaborativos utilizados en entornos de desarrollo reales y mejorar mi capacidad para planificar, organizar y solucionar problemas de manera eficiente.![alt text](image-3.png)
+Esta experiencia contribuyó al fortalecimiento de mis competencias técnicas, permitiéndome comprender mejor los flujos de trabajo colaborativos utilizados en entornos de desarrollo reales y mejorar mi capacidad para planificar, organizar y solucionar problemas de manera eficiente.![alt text](image-3.png)
