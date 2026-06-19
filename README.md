@@ -35,10 +35,13 @@ Se logró implementar correctamente el sistema de autenticación, permitiendo el
 
 ## Fin de curso
 
-Durante el desarrollo de este cursoo adquirí conocimientos sobre el uso de herramientas colaborativas de GitHub, especialmente **Issues** para la gestión y seguimiento de tareas, así como **Projects** para la organización y planificación del trabajo dentro del equipo.
+## Background
 
-Además, participé en la resolución de problemas en un repositorio compartido, colaborando con otros integrantes mediante la revisión de código, corrección de errores y seguimiento de actividades asignadas. Esto permitió fortalecer habilidades de comunicación y trabajo en equipo, aspectos fundamentales en el desarrollo de software.
+Durante el desarrollo de este curso adquirí conocimientos sobre el uso de herramientas colaborativas de GitHub, especialmente **Issues** para la gestión y seguimiento de tareas, y **Projects** para la organización y planificación del trabajo en equipo. Como parte de mis aportes, generé un **Issue** relacionado con el desarrollo de la página principal del sistema, definiendo las actividades necesarias para su implementación y seguimiento.
 
-También aprendí a utilizar conceptos de control de versiones como **commits**, **branches** y **pull requests**, los cuales facilitan la integración de cambios y el desarrollo de nuevas funcionalidades sin afectar la estabilidad del proyecto.
+Además, participé en la resolución de problemas dentro de un repositorio compartido, colaborando con mis compañeros en la integración de cambios, corrección de errores, revisión de código y seguimiento de actividades asignadas. Esta experiencia fortaleció mis habilidades de comunicación, organización y trabajo en equipo, aspectos fundamentales en el desarrollo de software.
 
-Esta experiencia contribuyó al fortalecimiento de mis competencias técnicas y profesionales, permitiéndome comprender mejor los flujos de trabajo colaborativos utilizados en entornos de desarrollo reales y mejorar mi capacidad para planificar, organizar y solucionar problemas de manera eficiente.![alt text]![alt text](image-4.png)
+También reforcé mis conocimientos sobre control de versiones mediante el uso de **commits**, **branches** y **pull requests**, comprendiendo cómo estas herramientas permiten mantener un flujo de trabajo ordenado, facilitar la integración de nuevas funcionalidades y preservar la estabilidad del proyecto.
+
+En general, esta experiencia me permitió adquirir conocimientos prácticos sobre metodologías de desarrollo colaborativo, mejorar mis capacidades para planificar y gestionar tareas, y fortalecer mis competencias técnicas en el desarrollo de aplicaciones web y el trabajo en entornos reales de software.
+.![alt text]![alt text](image-4.png)
