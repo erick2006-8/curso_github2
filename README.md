@@ -41,4 +41,4 @@ Además, participé en la resolución de problemas en un repositorio compartido,
 
 También aprendí a utilizar conceptos de control de versiones como **commits**, **branches** y **pull requests**, los cuales facilitan la integración de cambios y el desarrollo de nuevas funcionalidades sin afectar la estabilidad del proyecto.
 
-Esta experiencia contribuyó al fortalecimiento de mis competencias técnicas, permitiéndome comprender mejor los flujos de trabajo colaborativos utilizados en entornos de desarrollo reales y mejorar mi capacidad para planificar, organizar y solucionar problemas de manera eficiente.![alt text](image-3.png)
+Esta experiencia contribuyó al fortalecimiento de mis competencias técnicas y profesionales, permitiéndome comprender mejor los flujos de trabajo colaborativos utilizados en entornos de desarrollo reales y mejorar mi capacidad para planificar, organizar y solucionar problemas de manera eficiente.![alt text]![alt text](image-4.png)
